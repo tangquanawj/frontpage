@@ -1,0 +1,8 @@
+转载于：http://jingyan.baidu.com/article/09ea3ede2db180c0aede39d7.html
+
+1、 一组代码：<embed src="http://static.video.qq.com/TencentPlayer.swf?vid=视频ID&auto=1&outhost=http://cf.qq.com/" width="686" height="420">
+
+首先找到需要播放的vid，例如：<embed src="http://static.video.qq.com/TPout.swf?vid=d0318xro1vw&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+所以vid就是d0318xro1vw.
+
+2、把这个vid替换“视频ID”,放在网页中就是无广告自动播放的视频了。
